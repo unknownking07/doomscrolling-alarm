@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.doomscroll.pid
+assets/why-are-you-gay.mp4
+.DS_Store
